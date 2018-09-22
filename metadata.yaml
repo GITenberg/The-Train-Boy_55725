@@ -1,5 +1,8 @@
 _repo: The-Train-Boy_55725
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 55725-h/images/cover.jpg
 creator:
   author:
     agent_name: Alger, Horatio, Jr.
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/168
     wikipedia: http://en.wikipedia.org/wiki/Horatio_Alger,_Jr.
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55725#The-Train-Boy
 gutenberg_issued: '2017-10-09'
 gutenberg_type: Text
 identifiers:
